@@ -2,4 +2,4 @@
 
 test
 
-$\int_0^\infty \frac{1}{x} \text{d]x$
+$\int_0^\infty \frac{1}{x} \text{d}x$
